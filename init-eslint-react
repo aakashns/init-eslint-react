@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ -f "package.json" ]; then
+if [ ! -f "package.json" ]; then
    echo "\"package.json\" not found! Please run this command at the root of the project."
    exit 2
 fi
