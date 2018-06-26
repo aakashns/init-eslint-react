@@ -1,6 +1,6 @@
 {
   "name": "init-eslint-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Initialize an ESLint configuration for React & React Native apps",
   "main": "index.js",
   "scripts": {
